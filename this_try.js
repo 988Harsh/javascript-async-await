@@ -1,5 +1,5 @@
-let helloObj = {
 
+let helloObj = {
     hello: () => {
         console.log(this);
     },
